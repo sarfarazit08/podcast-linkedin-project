@@ -37,4 +37,4 @@ for item_data in data['item']:
 
 # Create and write the XML file
 tree = ET.ElementTree(rss)
-tree.write('output_rss.xml', encoding='utf-8', xml_declaration=True)
+tree.write('rss.xml', encoding='utf-8', xml_declaration=True)
