@@ -9,9 +9,9 @@ Welcome to the Podcast Generator Python App repository! 🚀
 Hey there! I'm MD SARFARAZ, your friendly neighborhood podcast enthusiast and Python aficionado who is Practicing GitHub Action by building this project. 👋
 
 Connect with me on social media:
-- Twitter: [@YourTwitterHandle](https://twitter.com/sarfarazit08)
+- Twitter: [TwitterHandle](https://twitter.com/sarfarazit08)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sarfarazit08)
-- YouTube: [YouTube Channel](https://www.youtube.com/@LearnWithNewton)]
+- YouTube: [YouTube Channel](https://www.youtube.com/@LearnWithNewton)
 
 ## Podcast Overview 🎧
 
